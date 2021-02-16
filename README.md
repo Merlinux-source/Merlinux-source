@@ -6,6 +6,7 @@
 - 📫 How to reach me I got xmpp, discord, Briar, Telegram and Signal
 # Contact
 Note, please use pgp for unencrypted mesengers like mail xmpp or discord.
+
   Telegram: `@Merlinux`
   
   Briar: `briar://aa7smnp76dkwm3cvzonfza2wfxvzmnc62iofggwyqar2f5p6csuf2`
