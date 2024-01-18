@@ -15,13 +15,7 @@
  
 
 # Contact
-Note, please use pgp for unencrypted mesengers like mail xmpp or discord.
-
-  Telegram: `@Merlinux`
-  
-  XMPP: `merlinux@jabber.de`
-  
-  Discord: `Merlinux#2332`
+please dont.
   
   
 <!---
